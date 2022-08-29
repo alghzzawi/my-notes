@@ -1,7 +1,7 @@
 # my-notes
 
 
-### My name is Mohamed Al-Ghazawi, I am 22 years old, I study **artificial intelligence engineer** in the LTUC, Department of ASAC, I will graduate this summer semester.
+### My name is Mohamed Al-Ghazawi, I am 22 years old, I study **artificial intelligence engineer** in the LTUC, Department of ASAC, I will graduate this summer semester
 
 #### my account in [Linked In](https://www.linkedin.com/in/mohammad-alghzawi-1b0297232/)
 

@@ -26,5 +26,6 @@
 |Code 401 - Advanced-Python Software Development| Link |
 |:---------|:---------:|
 | Intro to Python | [Read Class-01](./code-401-python/Class-01.md) |
-| Testing and Modules | [Read Class-01](./code-401-python/Class-02.md) |
+| Testing and Modules | [Read Class-02](./code-401-python/Class-02.md) |
+| Whiteboarding + Big O | [Read Class-03](./code-401-python/Class-03.md) |
 

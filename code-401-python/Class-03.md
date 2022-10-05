@@ -1,7 +1,5 @@
 # Whiteboarding + Big O
 
-# Whiteboarding + Big O
-
 ## Big O
 ### Big O notation is used in computer science to describe the performance or complexity of an algorithm.
 ### Big O specifically describes the worst case scenario, and can be used to describe the required execution time or the space used.

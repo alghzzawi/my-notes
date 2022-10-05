@@ -11,21 +11,20 @@
 
 | Code 301 - Intermediate Software Development | Link |
 | :--------- | :---------: |
-| Introduction to React and Components | [Read Class-01](ReadClass-01.md) |
-| State and Props | [Read Class-02](ReadClass-02.md) |
-| Passing Functions as Props | [Read Class-03](ReadClass-03.md) |
-| React and Forms | [Read Class-04](ReadClass-04.md) |
-| Putting it all together | [Read Class-05](ReadClass-05.md) |
-| NODE.JS | [Read Class-06](ReadClass-06.md) |
-| Mongo and Mongoose | [Read Class-11](ReadClass-11.md) |
-| CRUD | [Read Class-12](ReadClass-12.md) |
-| More CRUD | [Read Class-13](ReadClass-13.md) |
-| Authentication | [Read Class-15](ReadClass-15.md) |
+| Introduction to React and Components | [Read Class-01](./code-301-python/ReadClass-01.md) |
+| State and Props | [Read Class-02](./code-301-python/ReadClass-02.md) |
+| Passing Functions as Props | [Read Class-03](./code-301-python/ReadClass-03.md) |
+| React and Forms | [Read Class-04](./code-301-python/ReadClass-04.md) |
+| Putting it all together | [Read Class-05](./code-301-python/ReadClass-05.md) |
+| NODE.JS | [Read Class-06](./code-301-python/ReadClass-06.md) |
+| Mongo and Mongoose | [Read Class-11](./code-301-python/ReadClass-11.md) |
+| CRUD | [Read Class-12](./code-301-python/ReadClass-12.md) |
+| More CRUD | [Read Class-13](./code-301-python/ReadClass-13.md) |
+| Authentication | [Read Class-15](./code-301-python/ReadClass-15.md) |
 ---
 ---
 |Code 401 - Advanced-Python Software Development| Link |
 |:---------|:---------:|
-
-
-addddd
+| Intro to Python | [Read Class-01](./code-401-python/Class-01.md) |
+| Testing and Modules | [Read Class-01](./code-401-python/Class-02.md) |
 

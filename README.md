@@ -7,6 +7,8 @@
 ### Code 301 - Intermediate Software Development
 ### Code 401 - Advanced-Python Software Development
 
+<br>
+
 ---
 
 | Code 301 - Intermediate Software Development | Link |
@@ -21,8 +23,14 @@
 | CRUD | [Read Class-12](./code-301-python/ReadClass-12.md) |
 | More CRUD | [Read Class-13](./code-301-python/ReadClass-13.md) |
 | Authentication | [Read Class-15](./code-301-python/ReadClass-15.md) |
+
+<br>
+
 ---
 ---
+
+<br>
+
 |Code 401 - Advanced-Python Software Development| Link |
 |:---------|:---------:|
 | Intro to Python | [Read Class-01](./code-401-python/Class-01.md) |

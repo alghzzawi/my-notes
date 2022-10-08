@@ -38,3 +38,12 @@
 | Whiteboarding + Big O | [Read Class-03](./code-401-python/Class-03.md) |
 | FileIO & Exceptions | [Read Class-04](./code-401-python/Class-04.md) |
 
+---
+
+<br>
+
+| character | meaning |
+| :--------- | :--------- |
+|'r'|Open for reading (default)|
+|'w'|Open for writing, truncating (overwriting) the file first|
+|'rb' or 'wb'|Open in binary mode (read/write using byte data)|

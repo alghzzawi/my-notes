@@ -37,6 +37,7 @@
 | Testing and Modules | [Read Class-02](./code-401-python/Class-02.md) |
 | Whiteboarding + Big O | [Read Class-03](./code-401-python/Class-03.md) |
 | FileIO & Exceptions | [Read Class-04](./code-401-python/Class-04.md) |
+| Intro to OOP | [Read Class-05](./code-401-python/Class-05.md) |
 
 ---
 

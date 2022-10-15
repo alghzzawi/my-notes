@@ -39,6 +39,7 @@
 | FileIO & Exceptions | [Read Class-04](./code-401-python/Class-04.md) |
 | Intro to OOP | [Read Class-05](./code-401-python/Class-05.md) |
 | OOP Part02 | [Read Class-06](./code-401-python/Class-06.md) |
+| Data Analysis | [Read Class-07](./code-401-python/Class-07.md) |
 
 ---
 

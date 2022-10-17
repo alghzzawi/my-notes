@@ -40,9 +40,9 @@
 | Intro to OOP | [Read Class-05](./code-401-python/Class-05.md) |
 | OOP Part02 | [Read Class-06](./code-401-python/Class-06.md) |
 | Data Analysis | [Read Class-07](./code-401-python/Class-07.md) |
+| Data Analysis with Pandas | [Read Class-08](./code-401-python/Class-08.md) |
+| Linkedlist | [Read Class-09](./code-401-python/Class-09.md) |
 
 ---
 
 <br>
-
-

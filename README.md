@@ -42,6 +42,7 @@
 | Data Analysis | [Read Class-07](./code-401-python/Class-07.md) |
 | Data Analysis with Pandas | [Read Class-08](./code-401-python/Class-08.md) |
 | Linkedlist | [Read Class-09](./code-401-python/Class-09.md) |
+| Linear Regressions | [Read Class-10](./code-401-python/Class-10.md) |
 
 ---
 

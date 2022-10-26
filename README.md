@@ -44,6 +44,7 @@
 | Linkedlist | [Read Class-09](./code-401-python/Class-09.md) |
 | Linear Regressions | [Read Class-10](./code-401-python/Class-10.md) |
 | Data Visualization | [Read Class-11](./code-401-python/Class-11.md) |
+| Stack and Queue | [Read Class-12](./code-401-python/Class-12.md) |
 
 ---
 

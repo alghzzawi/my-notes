@@ -45,6 +45,7 @@
 | Linear Regressions | [Read Class-10](./code-401-python/Class-10.md) |
 | Data Visualization | [Read Class-11](./code-401-python/Class-11.md) |
 | Stack and Queue | [Read Class-12](./code-401-python/Class-12.md) |
+| Serverless Functions | [Read Class-13](./code-401-python/Class-13.md) |
 
 ---
 

@@ -48,6 +48,7 @@
 | Serverless Functions | [Read Class-13](./code-401-python/Class-13.md) |
 | Web Scraping | [Read Class-14](./code-401-python/Class-14.md) |
 | Tree | [Read Class-15](./code-401-python/Class-15.md) |
+| Cryptography | [Read Class-16](./code-401-python/Class-16.md) |
 
 ---
 

@@ -51,6 +51,7 @@
 | Cryptography | [Read Class-16](./code-401-python/Class-16.md) |
 | Automation | [Read Class-17](./code-401-python/Class-17.md) |
 | Intro to Django | [Read Class-19](./code-401-python/Class-19.md) |
+| Django Models | [Read Class-20](./code-401-python/Class-20.md) |
 
 ---
 

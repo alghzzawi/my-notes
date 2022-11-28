@@ -49,6 +49,7 @@
 | Web Scraping | [Read Class-14](./code-401-python/Class-14.md) |
 | Tree | [Read Class-15](./code-401-python/Class-15.md) |
 | Cryptography | [Read Class-16](./code-401-python/Class-16.md) |
+| Automation | [Read Class-17](./code-401-python/Class-17.md) |
 
 ---
 

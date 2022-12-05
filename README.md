@@ -53,6 +53,7 @@
 | Intro to Django | [Read Class-19](./code-401-python/Class-19.md) |
 | Django Models | [Read Class-20](./code-401-python/Class-20.md) |
 | Django CRUD and Forms | [Read Class-21](./code-401-python/Class-21.md) |
+| Django Custom User | [Read Class-23](./code-401-python/Class-23.md) |
 
 ---
 

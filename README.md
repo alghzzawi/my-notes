@@ -1,6 +1,6 @@
 # Reading Notes
 
-## Notes for Pre-class, This page is about what we will take in the JS classes.
+## Notes for Pre-class, This page is about what we will take in the JS and python classes.
 
 ### Code 102 - Intro to Software Development
 ### Code 201 - Foundations of Software Development
@@ -56,6 +56,7 @@
 | Django Custom User | [Read Class-23](./code-401-python/Class-23.md) |
 | Hashtabels | [Read Class-24](./code-401-python/Class-24.md) |
 | Django REST Framework & Docker | [Read Class-25](./code-401-python/Class-25.md) |
+| Permissions & Postgresql | [Read Class-26](./code-401-python/Class-26.md) |
 
 ---
 

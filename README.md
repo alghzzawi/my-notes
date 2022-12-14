@@ -57,6 +57,7 @@
 | Hashtabels | [Read Class-24](./code-401-python/Class-24.md) |
 | Django REST Framework & Docker | [Read Class-25](./code-401-python/Class-25.md) |
 | Permissions & Postgresql | [Read Class-26](./code-401-python/Class-26.md) |
+| Graphs | [Read Class-27](./code-401-python/Class-27.md) |
 
 ---
 

@@ -59,6 +59,7 @@
 | Permissions & Postgresql | [Read Class-26](./code-401-python/Class-26.md) |
 | Graphs | [Read Class-27](./code-401-python/Class-27.md) |
 | API Deployment | [Read Class-29](./code-401-python/Class-29.md) |
+| React Review | [Read Class-31](./code-401-python/Class-31.md) |
 
 ---
 

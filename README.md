@@ -63,6 +63,7 @@
 | Intro to Next.js & Tailwind CSS | [Read Class-32](./code-401-python/Class-32.md) |
 | Next- Forms and Conditional Rendering  | [Read Class-33](./code-401-python/Class-33.md) |
 | Context API | [Read Class-34](./code-401-python/Class-34.md) |
+| Authentication | [Read Class-35](./code-401-python/Class-35.md) |
 
 
 ---
